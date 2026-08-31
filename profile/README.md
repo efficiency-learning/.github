@@ -1,6 +1,6 @@
 # efficiency-learning
 
-efficiency-learning is a GitHub organisation for research code focused on efficient learning, data selection, and prototype selection for modern machine learning systems.
+efficiency-learning is a GitHub organization for research code focused on efficient learning, data selection, and prototype selection for modern machine learning systems.
 
 ## Projects
 
